@@ -3,5 +3,5 @@
 # ignore all  .log
 *.log
 
-# ignore dir tmp
-tmp/
+# ignore dir wn
+wn/
