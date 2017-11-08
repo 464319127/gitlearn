@@ -1,2 +1,7 @@
 .sass-cache
 
+# ignore all  .log
+*.log
+
+# ignore dir tmp
+tmp/
