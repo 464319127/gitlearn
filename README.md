@@ -1,2 +1,2 @@
 # gitlearn
-this is the project for learning git command
+this is the program of C++ primer
